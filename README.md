@@ -8,10 +8,10 @@ Utilizo nas automações: manipulação de strings, REST API, JSON, XML, Excel, 
 - 🌱 Paralelamente venho aprendendo Python, Django e Machine Learning e pretendo futuramente ter projetos.
 utilizando esses conhecimentos.
 
--📫 Como me encontrar:
+- 📫 Como me encontrar:
 
-[Linkedin] (https://www.linkedin.com/in/alamyrjunior/)
-[Email] (alamyrjunior@gmail.com)
+[Linkedin] (https://www.linkedin.com/in/alamyrjunior/),
+[Email] (alamyrjunior@gmail.com),
 [Cel] (+55976085063)
 
 
