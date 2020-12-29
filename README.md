@@ -5,7 +5,7 @@ grande empresas.Utilizo sempre as boas práticas e o modelo REFramework e o Orch
 Já realizei automações Web, Desktop, Citrix, SAP, atendidas e não atendidas.
 Utilizo nas automações: manipulação de strings, REST API, JSON, XML, Excel, Word, PDF, OCRs, e-mails, dentre outras. 
 
-> 🌱 Paralelamente venho aprendendo Python, Django e Machine Learning e pretendo futuramente ter projetos.
+> 🌱 Paralelamente venho aprendendo Python, Django e Machine Learning e pretendo futuramente ter projetos
 utilizando esses conhecimentos.
 
 > 📫 Como me encontrar: [Linkedin](https://www.linkedin.com/in/alamyrjunior/) - [Email](alamyrjunior@gmail.com) - [Cel](+55976085063)
