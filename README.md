@@ -1,4 +1,4 @@
-### Olá me chamo Alamyr Junior e sou um Desenvolvedor RPA. 👋
+>### Olá me chamo Alamyr Junior e sou um Desenvolvedor RPA. 👋
 
 - 🔭 Atualmente trabalho na DClick e utilizo a ferramenta UiPath na qual desenvolvo automações para
 grande empresas.Utilizo sempre as boas práticas e o modelo REFramework e o Orchestrator em minhas automações. 
@@ -11,10 +11,11 @@ utilizando esses conhecimentos.
 - 📫 Como me encontrar: [Linkedin](https://www.linkedin.com/in/alamyrjunior/) - [Email](alamyrjunior@gmail.com) - [Cel](+55976085063)
 
 - ⚡ Fun fact: 
-Sou músico formado e aprendi/aprendo programação por conta própria.
-Pratico Taekwondo e já competi diversas vezes.
-Adoro jogar videogame.
-Pretendo correr uma meia maratona esse ano!
+  * Sou músico formado e aprendi/aprendo programação por conta própria.
+  * Pratico Taekwondo e já competi diversas vezes.
+  * Adoro jogar videogame.
+  * Pretendo correr uma meia maratona esse ano!
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=alamyrjunior&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
