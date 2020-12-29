@@ -10,9 +10,9 @@ utilizando esses conhecimentos.
 
 - 📫 Como me encontrar:
 
-[Linkedin] (https://www.linkedin.com/in/alamyrjunior/),
-[Email] (alamyrjunior@gmail.com),
-[Cel] (+55976085063)
+[Linkedin](https://www.linkedin.com/in/alamyrjunior/) - 
+[Email](alamyrjunior@gmail.com) - 
+[Cel](+55976085063)
 
 
 - ⚡ Fun fact: 
