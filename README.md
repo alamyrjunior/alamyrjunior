@@ -1,6 +1,6 @@
 > ## Olá me chamo Alamyr Junior e sou um Desenvolvedor RPA. 👋 ##
 
-> 🔭 Atualmente trabalho na DClick e utilizo a ferramenta UiPath na qual desenvolvo automações para
+> 🔭 Atualmente trabalho na Zallpy e utilizo a ferramenta UiPath na qual desenvolvo automações para
 grande empresas.Utilizo sempre as boas práticas e o modelo REFramework e o Orchestrator em minhas automações. 
 Já realizei automações Web, Desktop, Citrix, SAP, atendidas e não atendidas.
 Utilizo nas automações: manipulação de strings, REST API, JSON, XML, Excel, Word, PDF, OCRs, e-mails, dentre outras. 
