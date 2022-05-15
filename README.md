@@ -10,6 +10,8 @@ utilizando esses conhecimentos.
 
 > 📫 Como me encontrar: [Linkedin](https://www.linkedin.com/in/alamyrjunior/) - [Email](alamyrjunior@gmail.com) - [Cel](+55976085063)
 
+[GitHub Io](https://alamyrjunior.github.io/)
+
 > ⚡ Fun fact: 
 
  * Sou músico formado e aprendi/aprendo programação por conta própria.
