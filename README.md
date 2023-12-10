@@ -1,6 +1,6 @@
 > ## Olá me chamo Alamyr Junior 👋 ##
 
-Olá! Sou o Alamyr, um entusiasta apaixonado por automação e tecnologia, especializado em Desenvolvimento RPA. Minha jornada profissional tem sido marcada pela criação de soluções eficientes e inovadoras que otimizam processos e impulsionam a produtividade.
+Sou um entusiasta apaixonado por automação e tecnologia, especializado em Desenvolvimento RPA. Minha jornada profissional tem sido marcada pela criação de soluções eficientes e inovadoras que otimizam processos e impulsionam a produtividade.
 
 > 🤖 Habilidades Técnicas:
 
