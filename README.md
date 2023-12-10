@@ -2,7 +2,7 @@
 
 Olá! Sou o Alamyr, um entusiasta apaixonado por automação e tecnologia, especializado em Desenvolvimento RPA. Minha jornada profissional tem sido marcada pela criação de soluções eficientes e inovadoras que otimizam processos e impulsionam a produtividade.
 
-🤖 Habilidades Técnicas:
+> 🤖 Habilidades Técnicas:
 
 Desenvolvimento RPA: Especializado na plataforma UiPath, aplicando automação inteligente para simplificar tarefas complexas e aumentar a eficiência operacional.
 
@@ -14,10 +14,10 @@ Controle de Versão: Proficiente em Git, assegurando um desenvolvimento colabora
 
 Bancos de Dados: Experiência em SQL, gerenciando e manipulando dados para insights valiosos.
 
-🔗 Conecte-se para Colaborações:
+> 🔗 Conecte-se para Colaborações:
 Estou sempre em busca de desafios estimulantes e oportunidades de colaboração. Se você compartilha o interesse por inovação e eficiência, vamos conectar e explorar possíveis sinergias.
 
-📫 Contato:
+> 📫 Contato:
 E-mail: alamyrjunior@gmail.com | LinkedIn: linkedin.com/in/alamyrjunior
 
 Vamos impulsionar a transformação digital juntos! 💻✨
