@@ -1,36 +1,49 @@
-> ## Olá me chamo Alamyr Junior 👋 ##
+# Hi there, I'm Alamyr! 👋
 
-Sou um entusiasta apaixonado por automação e tecnologia, especializado em Desenvolvimento RPA. Minha jornada profissional tem sido marcada pela criação de soluções eficientes e inovadoras que otimizam processos e impulsionam a produtividade.
+I'm a passionate programmer and entrepreneur based in Brazil, focused on backend development and Robotic Process Automation (RPA). My goal is to leverage technology to solve real-world problems and create efficient automation solutions for businesses.
 
-> 🤖 Habilidades Técnicas:
+## 🚀 About Me
 
-Desenvolvimento RPA: Especializado na plataforma UiPath, aplicando automação inteligente para simplificar tarefas complexas e aumentar a eficiência operacional.
+- 🌎 Based in Brazil
+- 🎯 Aiming to make my first million next year
+- 💼 Senior RPA Developer at Essor Seguros
+  
 
-Programação: Fluente em Python, utilizo minha expertise para criar scripts personalizados e integrar soluções de ponta a ponta.
+## 🛠️ My Skillset
 
-Nuvem: Possuo sólidos conhecimentos em AWS, explorando as possibilidades dessa plataforma para hospedar e escalar aplicações.
+- **Backend Development**: Python, Django, UiPath
+- **Frontend Development**: React, TailwindCSS
+- **Database Management**: Prisma, MySQL, SQL Server
+- **Automation**: RPA with UiPath, Python, Power Automate, AirFlow
+- **Cloud Services**: AWS
+- **Chatbot Development**: Watson Assistant
 
-Controle de Versão: Proficiente em Git, assegurando um desenvolvimento colaborativo e rastreável.
+## 🌟 Projects
 
-Bancos de Dados: Experiência em SQL, gerenciando e manipulando dados para insights valiosos.
+- **Robotize**: Providing RPA and chatbot solutions to streamline business processes and enhance productivity. (On hold)
+- **ChatPigeon**: An Ai Chatbot for businesses
 
-> 🔗 Conecte-se para Colaborações:
-Estou sempre em busca de desafios estimulantes e oportunidades de colaboração. Se você compartilha o interesse por inovação e eficiência, vamos conectar e explorar possíveis sinergias.
+## 💡 Future Plans
 
-> 📫 Contato:
-E-mail: alamyrjunior@gmail.com | LinkedIn: linkedin.com/in/alamyrjunior
+I am working towards building a SaaS product using AI, potentially in the education field, to bring innovative solutions to everyday challenges.
 
-Vamos impulsionar a transformação digital juntos! 💻✨
+## 📫 How to reach me
 
+- [LinkedIn](https://www.linkedin.com/in/alamyrjunior)
+- [Email](mailto:alamyrjunior@gmail.com)
+- [GitHub Io](https://alamyrjunior.github.io/)
 
-> 📫 Como me encontrar: [Linkedin](https://www.linkedin.com/in/alamyrjunior/) - [Email](alamyrjunior@gmail.com) - [Cel](+55976085063) - [GitHub Io](https://alamyrjunior.github.io/)
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+
+---
+
 
 > ⚡ Fun fact: 
 
- * Sou músico formado e aprendi/aprendo programação por conta própria.
- * Pratico Taekwondo e já competi diversas vezes.
- * Adoro jogar videogame.
- * Pretendo correr uma meia maratona esse ano!
+ * I have a bachelor degree in Music and I love to play.
+ * I`m a self-taught programmer
+ * Video games are cool
+ * I'll run a half marathon until the end of the year (2024)
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=alamyrjunior&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
