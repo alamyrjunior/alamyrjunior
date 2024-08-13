@@ -31,7 +31,7 @@ I am working towards building a SaaS product using AI, potentially in the educat
 
 - [LinkedIn](https://www.linkedin.com/in/alamyrjunior)
 - [Email](mailto:alamyrjunior@gmail.com)
-- [GitHub Io](https://alamyrjunior.github.io/)
+- [GitHub Io](https://alamyrjunior.github.io/portfolio)
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 
