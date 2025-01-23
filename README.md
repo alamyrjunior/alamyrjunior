@@ -14,7 +14,7 @@ I'm a passionate programmer and entrepreneur based in Brazil, focused on backend
 - **Backend Development**: Python, Django, UiPath
 - **Frontend Development**: React, TailwindCSS
 - **Database Management**: Prisma, MySQL, SQL Server
-- **Automation**: RPA with UiPath, Python, Power Automate, AirFlow
+- **Automation**: RPA with UiPath, Python, Power Automate
 - **Cloud Services**: AWS
 - **Chatbot Development**: Watson Assistant
 
