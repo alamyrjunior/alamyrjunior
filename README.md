@@ -5,7 +5,6 @@ I'm a passionate programmer and entrepreneur based in Brazil, focused on backend
 ## 🚀 About Me
 
 - 🌎 Based in Brazil
-- 🎯 Aiming to make my first million next year
 - 💼 Senior RPA Developer at Essor Seguros
   
 
@@ -20,8 +19,8 @@ I'm a passionate programmer and entrepreneur based in Brazil, focused on backend
 
 ## 🌟 Projects
 
-- **Robotize**: Providing RPA and chatbot solutions to streamline business processes and enhance productivity. (On hold)
-- **ChatPigeon**: An Ai Chatbot for businesses
+- **Freela Pulse** Saas to provide the best freelacer jobs to freelancers based on their query search and sent direct throught whatsapp. (On hold)
+
 
 ## 💡 Future Plans
 
